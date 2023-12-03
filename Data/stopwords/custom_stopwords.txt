@@ -185,3 +185,13 @@ spits
 g/d
 crib
 parenting
+discharge
+summary
+admission
+name3
+lf
+35f
+200s
+300s
+250s
+190s
